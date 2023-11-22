@@ -28,7 +28,7 @@ Berikut adalah Source Code yang di pakai untuk membuat aplikasi sederhana yang h
 
 - Source Code:
   
-    - Android Manifest dan java : [Klik Source Code Android Mnifest & java](https://drive.google.com/file/d/1CPnAlpmJvvLeILg6s9zlR-_LZlyA5CRb/view?usp=drive_link)
+    - Android Manifest dan java : [Klik Source Code Android Manifest & java](https://drive.google.com/file/d/1CPnAlpmJvvLeILg6s9zlR-_LZlyA5CRb/view?usp=drive_link)
  
     - Res Drawable : [Klik Source Code Res Drawable](https://drive.google.com/file/d/1mIZnndv2O1cm_Tx7AG4W-VIO4U3jQ9GT/view?usp=drive_link)
  
